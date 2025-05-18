@@ -8,4 +8,4 @@
 <br>
 <h2>Layout da aplicação</h2>
 <br>
-<img 
+<img src="https://github.com/GabrielMB13/ProjetoJS-1/blob/main/assets/imgForReademe.png" alt="img-aplication">
